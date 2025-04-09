@@ -24,5 +24,6 @@ public class _01_MainMetodos {
 		p1 = new Persona("Hulk",40,635,false);
 		System.out.println(p1.obtenerPesoEnLibras());
 		p1.presentarse();
+	
 	}
 }
