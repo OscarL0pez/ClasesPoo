@@ -34,7 +34,7 @@ public class ArrayListSoluciones {
         while(control < elementos.size()) {
             System.out.println(elementos.get(control));
             control++;
-        }
+        } 
     }
 
     public static void ejercicio2() {
