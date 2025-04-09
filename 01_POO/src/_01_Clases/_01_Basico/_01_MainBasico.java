@@ -1,4 +1,4 @@
-package _13_POO._01_Clases._01_Basico;
+package _01_Clases._01_Basico;
 
 public class _01_MainBasico {
 

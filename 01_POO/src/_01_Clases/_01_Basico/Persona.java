@@ -1,4 +1,4 @@
-package _13_POO._01_Clases._01_Basico;
+package _01_Clases._01_Basico;
 
 //Una clase es un molde para la creación de objetos. Podemos entenderla
 //como molde, planos, esquema, etc.

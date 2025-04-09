@@ -1,4 +1,4 @@
-package _13_POO._01_Clases._02_Constructores;
+package _01_Clases._02_Constructores;
 
 public class _01_MainConstructores {
 

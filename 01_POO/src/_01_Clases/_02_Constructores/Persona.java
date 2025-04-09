@@ -1,4 +1,4 @@
-package _13_POO._01_Clases._02_Constructores;
+package _01_Clases._02_Constructores;
 
 //Siempre que queramos construir un objeto, necesitamos de la ayuda de lo
 //que se conoce como "Constructor"

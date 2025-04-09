@@ -1,4 +1,4 @@
-package _13_POO._01_Clases._03_Metodos;
+package _01_Clases._03_Metodos;
 //Dentro de una clase, además de atributos, pueden realizar funcionalidades
 //que se declaran como "METODOS". En POO, a las funciones se le llaman
 //"métodos". Siguen las mismas reglas de las funciones que vimos en 
