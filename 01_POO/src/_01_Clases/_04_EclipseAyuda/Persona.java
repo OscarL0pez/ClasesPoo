@@ -16,13 +16,23 @@ public class Persona {
 	//-> seleccionarmos "Generate constructor using fields"
 	//A continuación elegimos los atributos con los que queremos crear
 	//el constructor
+
+	/**
+	 * Este es el constructor de la clase que me permite instanciar una persona
+	 * Pero necesito todos los argumentos para dar valor a los parámetros.
+	 * @param nombre
+	 * @param edad
+	 * @param peso
+	 * @param estaCasado
+	 */
 	public Persona(String nombre, int edad, double peso, boolean estaCasado) {
-		super();//Esta palabra esta relacionada con la herencia
+		super(); //Super cuando lleguemos a herencias 
 		this.nombre = nombre;
 		this.edad = edad;
 		this.peso = peso;
 		this.estaCasado = estaCasado;
 	}
+
 
 	//podemos crear todos los constructores que queramos
 	public Persona() {
@@ -47,9 +57,12 @@ public class Persona {
 	//-> seleccionarmos "Generate toString()"
 	//A continuación elegimos los atributos con los que queremos crear
 	//el método
+	
 	@Override
 	public String toString() {
 		return "Persona [nombre=" + nombre + ", edad=" + edad + ", peso=" + peso + ", estaCasado=" + estaCasado + "]";
-	}	
+	}
+	
+		
 	
 }
