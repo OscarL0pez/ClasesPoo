@@ -1,4 +1,4 @@
-package _01_Basicos;
+package _00_EjerciciosBasicos;
 
 public class Main {
 
