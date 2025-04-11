@@ -32,6 +32,9 @@ public class Coche {
 	private boolean circulando;
 	private boolean frenado;
 	private boolean enMarcha;
+	// Atributos de clase
+	// private static int cantidadCoches;
+	
 	
 		
 	// Constructor
